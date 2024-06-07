@@ -1,0 +1,18 @@
+current directory: /Users/watasho/study/sample_apps/7_0/ch14/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+/Users/watasho/.rbenv/versions/3.2.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/watasho/study/sample_apps/7_0/ch14/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240607-6370-8z9aki sitelibdir\=./.gem.20240607-6370-8z9aki clean
+
+current directory: /Users/watasho/study/sample_apps/7_0/ch14/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240607-6370-8z9aki sitelibdir\=./.gem.20240607-6370-8z9aki
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/watasho/study/sample_apps/7_0/ch14/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240607-6370-8z9aki sitelibdir\=./.gem.20240607-6370-8z9aki install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20240607-6370-8z9aki/bootsnap
+
+current directory: /Users/watasho/study/sample_apps/7_0/ch14/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240607-6370-8z9aki sitelibdir\=./.gem.20240607-6370-8z9aki clean

@@ -1,0 +1,18 @@
+current directory: /Users/watasho/study/sample_apps/7_0/ch14/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/watasho/.rbenv/versions/3.2.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/watasho/study/sample_apps/7_0/ch14/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240607-6370-4bcbz8 sitelibdir\=./.gem.20240607-6370-4bcbz8 clean
+
+current directory: /Users/watasho/study/sample_apps/7_0/ch14/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240607-6370-4bcbz8 sitelibdir\=./.gem.20240607-6370-4bcbz8
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/watasho/study/sample_apps/7_0/ch14/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240607-6370-4bcbz8 sitelibdir\=./.gem.20240607-6370-4bcbz8 install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20240607-6370-4bcbz8
+
+current directory: /Users/watasho/study/sample_apps/7_0/ch14/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240607-6370-4bcbz8 sitelibdir\=./.gem.20240607-6370-4bcbz8 clean

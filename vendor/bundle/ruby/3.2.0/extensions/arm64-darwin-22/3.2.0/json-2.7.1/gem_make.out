@@ -1,0 +1,16 @@
+current directory: /Users/watasho/study/sample_apps/7_0/ch14/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+/Users/watasho/.rbenv/versions/3.2.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/watasho/study/sample_apps/7_0/ch14/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240607-6370-wwveso sitelibdir\=./.gem.20240607-6370-wwveso clean
+
+current directory: /Users/watasho/study/sample_apps/7_0/ch14/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240607-6370-wwveso sitelibdir\=./.gem.20240607-6370-wwveso
+make: Nothing to be done for `all'.
+
+current directory: /Users/watasho/study/sample_apps/7_0/ch14/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240607-6370-wwveso sitelibdir\=./.gem.20240607-6370-wwveso install
+
+current directory: /Users/watasho/study/sample_apps/7_0/ch14/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240607-6370-wwveso sitelibdir\=./.gem.20240607-6370-wwveso clean
